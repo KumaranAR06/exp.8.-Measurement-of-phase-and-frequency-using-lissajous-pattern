@@ -24,7 +24,7 @@ Note : Sometimes due to page load or cache, the graph may not come exact at one 
 Oscilloscope and function generator is described more elaborately in the Oscilloscope Tutorial section.
 
 ## Formula:
-CALCULATION
+CALCULATION 
 
 
   Vm
